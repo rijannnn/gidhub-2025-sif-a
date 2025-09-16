@@ -2,3 +2,7 @@ Pada Latihan 1 ini saya sudah;
 1. membuat akun gidhub
 2. membuat repository
 3. melakukan edit pada file readme
+
+Pada latihan ini juga saya sudah;
+a. membuat file latihan.txt
+b. Mencoba membuat branch
