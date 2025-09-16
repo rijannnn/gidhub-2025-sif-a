@@ -1,0 +1,4 @@
+Pada Latihan 1 ini saya sudah;
+1. membuat akun gidhub
+2. membuat repository
+3. melakukan edit pada file readme
